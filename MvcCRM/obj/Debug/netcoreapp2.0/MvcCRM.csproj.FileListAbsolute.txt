@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\Proyecto_I_Cuatri_2018\MvcCRM\bin\Debug\netcoreapp2.0\MvcCRM.deps.json
+C:\Users\Steven\Desktop\Proyecto_I_Cuatri_2018\MvcCRM\bin\Debug\netcoreapp2.0\MvcCRM.runtimeconfig.json
+C:\Users\Steven\Desktop\Proyecto_I_Cuatri_2018\MvcCRM\bin\Debug\netcoreapp2.0\MvcCRM.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\Proyecto_I_Cuatri_2018\MvcCRM\bin\Debug\netcoreapp2.0\MvcCRM.dll
+C:\Users\Steven\Desktop\Proyecto_I_Cuatri_2018\MvcCRM\bin\Debug\netcoreapp2.0\MvcCRM.pdb
+C:\Users\Steven\Desktop\Proyecto_I_Cuatri_2018\MvcCRM\obj\Debug\netcoreapp2.0\MvcCRM.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Proyecto_I_Cuatri_2018\MvcCRM\obj\Debug\netcoreapp2.0\MvcCRM.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\Proyecto_I_Cuatri_2018\MvcCRM\obj\Debug\netcoreapp2.0\MvcCRM.AssemblyInfo.cs
+C:\Users\Steven\Desktop\Proyecto_I_Cuatri_2018\MvcCRM\obj\Debug\netcoreapp2.0\MvcCRM.dll
+C:\Users\Steven\Desktop\Proyecto_I_Cuatri_2018\MvcCRM\obj\Debug\netcoreapp2.0\MvcCRM.pdb
